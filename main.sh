@@ -1,1 +1,1 @@
-Rscript output.R
+Rscript ./output.R
